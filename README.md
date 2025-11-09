@@ -20,7 +20,5 @@ Projeto em Python para registrar e acompanhar hábitos diários, com foco em dis
 - Python 3
 - Módulos padrão: `json`, `os`, `datetime`
 
-## Como executar
 
-```bash
 python tracker_habitos.py
